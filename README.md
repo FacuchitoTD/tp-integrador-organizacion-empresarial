@@ -138,8 +138,11 @@ El archivo `Glados.db` se crea automáticamente en el mismo directorio al primer
 
 ---
 
-## Autor
+## Integrantes del Equipo
 
-**Facundo** — [@FacuchitoTD](https://github.com/FacuchitoTD)
+| Nombre | Rol | GitHub |
+|---|---|---|
+| Facundo López | Desarrollador Técnico | [@FacuchitoTD](https://github.com/FacuchitoTD) |
+| Leonel Leandro Quiroga | Documentación | [@leo15deluxe](https://github.com/leo15deluxe) |
 
 TUPaD UTN — Organización Empresarial — Cohorte Marzo 2026
