@@ -1,9 +1,12 @@
+import os
 import telebot
 import sqlite3
+from dotenv import load_dotenv
 
-TOKEN = "8794198254:AAGLBtUZdowHM-q45M8nb8e0vPBRRreoKiQ"
+# Cargar el token desde el archivo .env
+load_dotenv()
+TOKEN = os.getenv("TELEGRAM_TOKEN")
 bot = telebot.TeleBot(TOKEN)
-
 # ========================================================
 # FUNCIONES DE BASE DE DATOS (Tareas de Servicio)
 # ========================================================
